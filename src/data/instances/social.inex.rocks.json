@@ -8,7 +8,7 @@
         "version": "3.2.0"
     },
     "users": {
-        "total": 40,
+        "total": 42,
         "active_halfyear": 46,
         "active_month": 26
     },
@@ -19,7 +19,7 @@
         "federation_policies": [
             "https://raw.githubusercontent.com/pixeldesu/fediverse-friendly-moderation-covenant/master/covenant.md"
         ],
-        "server_location": 643,
+        "server_location": 276,
         "provider": "Hetzner"
     },
     "registration": {

@@ -7,7 +7,7 @@
         "name": "pleroma"
     },
     "users": {
-        "total": 166
+        "total": 168
     },
     "posting": {
         "max_chars": 10000

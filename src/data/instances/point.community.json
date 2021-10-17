@@ -7,7 +7,7 @@
         "name": "friendica"
     },
     "users": {
-        "total": 33
+        "total": 34
     },
     "posting": {
         "max_chars": 65000
