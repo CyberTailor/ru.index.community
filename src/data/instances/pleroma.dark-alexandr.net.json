@@ -1,0 +1,22 @@
+{
+    "$schema": "../schemas/instances.json",
+    "uri": "pleroma.dark-alexandr.net",
+    "short_description": "Личный эксперементальный сервер с открытой регистрацией, используются свежие версии софта, часто эксперементальные, никаких гарантий не даю.",
+    "software": {
+        "name": "pleroma"
+    },
+    "users": {
+        "total": 4
+    },
+    "registration": {
+        "approval_required": true,
+        "available": true,
+        "email_required": true
+    },
+    "administration": {
+        "backups_policy": "weekly"
+    },
+    "posting": {
+        "max_chars": 655360
+    }
+}
