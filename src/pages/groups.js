@@ -14,7 +14,7 @@ export default function Communities ({ data }) {
         position='static' style={{
           background: 'transparent',
           width: '100%',
-          maxWidth: 1440,
+          maxWidth: 1536,
           margin: 'auto'
         }} elevation={0}
       >
