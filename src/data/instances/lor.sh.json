@@ -21,6 +21,6 @@
         ]
     },
     "administration": {
-        "cloudflare": true
+        "cloudflare": false
     }
 }
