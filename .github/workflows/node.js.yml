@@ -54,3 +54,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         # Set custom domain
         cname: ru.index.community
+
