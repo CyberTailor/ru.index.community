@@ -1,0 +1,10 @@
+{
+    "$schema": "../schemas/groups.json",
+    "uri": "techporn.club/@vote",
+    "handle": "@vote@techporn.club",
+    "title": "Опросник",
+    "short_description": "Любишь проходить опросы? Хочешь поучаствовать в сборе статистики о русскоговорящих пользователях в федиверсе? Тогда подпишись чтобы видите проходящие опросы в своей ленте.",
+    "icon": "vote@techporn.club.icon.png",
+    "thumbnail": "vote@techporn.club.banner.png",
+    "members": 18
+}
