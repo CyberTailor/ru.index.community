@@ -1,0 +1,9 @@
+{
+    "$schema": "../schemas/groups.json",
+    "uri": "shitpost.poridge.club/@b",
+    "handle": "@b@shitpost.poridge.club",
+    "title": "b",
+    "short_description": "тру /b для анеков про говно и прочие приколы",
+    "members": 56,
+    "icon": "b@shitpost.poridge.club.icon.png"
+}

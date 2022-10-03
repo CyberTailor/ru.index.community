@@ -1,0 +1,9 @@
+{
+    "$schema": "../schemas/groups.json",
+    "uri": "mastodon.ml/@tech",
+    "handle": "@tech@mastodon.ml",
+    "title": "Tech Thread",
+    "short_description": "Бот для общения на технические и около технические темы.",
+    "members": 55,
+    "icon": "tech@mastodon.ml.icon.png"
+}

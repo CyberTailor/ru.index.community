@@ -1,9 +1,0 @@
-{
-    "$schema": "../schemas/groups.json",
-    "uri": "soc.phreedom.club/users/WAAbDvy4",
-    "handle": "@WAAbDvy4@soc.phreedom.club",
-    "title": "ШизоБот",
-    "short_description": "Бот-группа для криптошизиков, криптоанархистов, специалистов ИБ и т.д.",
-    "icon": "WAAbDvy4@soc.phreedom.club.icon.png",
-    "members": 19
-}
