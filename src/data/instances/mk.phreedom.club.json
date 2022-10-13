@@ -1,0 +1,30 @@
+{
+    "$schema": "../schemas/instances.json",
+    "uri": "mk.phreedom.club",
+    "short_description": "Клуб \"Свобода\" предоставляет всем желающим альтернативу централизованным корпоративным сервисам. ",
+    "thumbnail": "soc.phreedom.club.png",
+    "software": {
+        "name": "misskey",
+        "version": "12.119.0"
+    },
+    "users": {
+        "total": 23
+    },
+    "posting": {
+        "max_chars": 3000,
+        "poll_settings": {
+            "max_option_chars": 25,
+            "max_options": 4
+        },
+        "post_formats": [
+            "text/plain"
+        ]
+    },
+    "administration": {
+        "backups_policy": "daily",
+        "provider": "FlokiNet"
+    },
+    "registration": {
+        "available": true
+    }
+}
