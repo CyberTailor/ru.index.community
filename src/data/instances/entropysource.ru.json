@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/instances.json",
+  "uri": "entropysource.ru",
+  "title": "Источник энтропии",
+  "short_description": "Русскоязычный инстанс для тех, кто не желает ограничивать себя рамками микроблоггинга. Сайт предназначен для ведения личных и тематических блогов и доброжелательного общения",
+  "thumbnail": "ru.entropysource.png",
+  "software": {
+    "name": "friendica",
+    "version": "2023.05",
+    "repository": "https://git.friendi.ca/friendica/friendica"
+  },
+  "users": {
+    "total": 4
+  },
+  "posting": {
+    "max_chars": 200000,
+    "poll_settings": {
+      "max_option_chars": 25,
+      "max_options": 4
+    },
+    "post_formats": [
+      "text/plain",
+      "text/markdown",
+      "text/bbcode"
+    ]
+  },
+  "administration": {
+    "backups_policy": "daily",
+    "bus_factor": 1,
+    "contact_email": "entropysource@ya.ru",
+    "server_location": 7,
+    "provider": "Timeweb Cloud",
+    "cloudflare": true
+  },
+  "registration": {
+    "approval_required": false,
+    "available": true,
+    "email_required": true,
+    "invite_required": false
+  },
+  "upload_limits": {
+    "avatar": 800000,
+    "general": 800000
+  }
+}
