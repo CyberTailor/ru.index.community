@@ -1,0 +1,33 @@
+{
+    "$schema": "../schemas/instances.json",
+    "uri": "craba.cab",
+    "title": "Mastodon Craba",
+    "short_description": "Пространство для русскоязычных левачек, феминисток, квир-людей и их союзников, которые хотят найти альтернативу твиттеру. Становитесь крабами!",
+    "users": {
+        "total": 19,
+        "active_month": 19,
+        "active_halfyear": 19
+    },
+    "software": {
+        "name": "mastodon",
+        "version": "4.1.4"
+    },
+    "registration": {
+        "invite_required": true
+    },
+    "administration": {
+        "contact_email": "info@craba.cab",
+        "bus_factor": 1,
+        "cloudflare": true,
+        "provider": "Oracle"
+    },
+    "posting": {
+        "max_chars": 500,
+        "post_formats": [
+            "text/plain"
+        ],
+        "poll_settings": {
+            "max_options": 4
+        }
+    }
+}
